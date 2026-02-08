@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "イイコと妖狐",
+  "base_artist": "きくお",
+  "createdAt": "2026-02-08T10:03:51.367953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イイコと妖狐",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/01_イイコと妖狐_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イイコと妖狐",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/02_イイコと妖狐_きくお.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イイコと妖狐",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/03_イイコと妖狐_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イイコと妖狐",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/04_イイコと妖狐_Kikuo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イイコと妖狐",
+      "artist": "きくお",
+      "has_synced": false,
+      "path": "select/pl_01_イイコと妖狐_きくお.txt"
+    }
+  ]
+}
